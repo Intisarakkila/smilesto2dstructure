@@ -3,8 +3,10 @@ A Python tool that converts SMILES codes into 2D molecular visualizations using 
 
 ##  Features  
 * **Input**: Accepts any valid [SMILES notation](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)  
-* **Output**: Generates publication-ready 2D structures  
-![GUI Screenshot](/Screenshot2.png)
+* **Output**: Generates publication-ready 2D structures
+* ## Example Output
+![Aspirin Structure](/Screenshot2.png)
+*Generated from SMILES: `CC(=O)OC1=CC=CC=C1C(=O)O`*
 
 ## Run
 ```bash
